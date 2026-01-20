@@ -1,0 +1,92 @@
+========================================
+  Programming Practice Questions
+========================================
+
+---
+### Star Pattern Questions
+---
+
+1.  Write a program to print a right-angled triangle of stars.
+    Example for n=5:
+    *
+    **
+    ***
+    ****
+    *****
+
+2.  Write a program to print an inverted right-angled triangle of stars.
+    Example for n=5:
+    *****
+    ****
+    ***
+    **
+    *
+
+3.  Write a program to print a pyramid of stars.
+    Example for n=5:
+        *
+       ***
+      *****
+     *******
+    *********
+
+4.  Write a program to print an inverted pyramid of stars.
+    Example for n=5:
+    *********
+     *******
+      *****
+       ***
+        *
+
+5.  Write a program to print a diamond of stars.
+    Example for n=5:
+        *
+       ***
+      *****
+     *******
+    *********
+     *******
+      *****
+       ***
+        *
+
+6.  Write a program to print a hollow square of stars.
+    Example for n=5:
+    *****
+    *   *
+    *   *
+    *   *
+    *****
+
+---
+### Number-Based Questions
+---
+
+1.  **Prime Number Check:** Write a program to check if a given number is prime. A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+
+2.  **Palindrome Check:** Write a program to check if a given number or string is a palindrome. A palindrome is a word, number, phrase, or other sequence of characters that reads the same backward as forward.
+
+3.  **Binary Conversion:** Write a program to convert a decimal number to its binary equivalent.
+
+4.  **Armstrong's Number:** Write a program to check if a given number is an Armstrong number. An Armstrong number is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
+
+5.  **Fibonacci Series:** Write a program to generate the Fibonacci series up to a given number of terms. The Fibonacci series is a sequence in which each number is the sum of the two preceding ones.
+
+---
+### Other Pattern Questions
+---
+
+1.  **Floyd's Triangle:** Write a program to print Floyd's triangle. Floyd's triangle is a right-angled triangular array of natural numbers.
+    Example for n=4:
+    1
+    2 3
+    4 5 6
+    7 8 9 10
+
+2.  **Pascal's Triangle:** Write a program to print Pascal's triangle. Pascal's triangle is a triangular array of binomial coefficients.
+    Example for n=5:
+        1
+       1 1
+      1 2 1
+     1 3 3 1
+    1 4 6 4 1
