@@ -72,6 +72,8 @@
 
 5.  **Fibonacci Series:** Write a program to generate the Fibonacci series up to a given number of terms. The Fibonacci series is a sequence in which each number is the sum of the two preceding ones.
 
+6.  **Date Format Conversion (DDMMYY -> Day Month Year):** Write a program that prompts the user to enter 6 digits representing a date in DDMMYY format (day, month, two-digit year). The program should print the date using the day, full month name, and a four-digit year. Assume two-digit years 00-99 correspond to 2000-2099. Example: input `261209` -> output `26 December 2009`.
+
 ---
 ### Other Pattern Questions
 ---
