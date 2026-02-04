@@ -20,6 +20,7 @@ public class Linear_search{
         for(int i = 0; i < size_array; i++){
             if(arr[i] == target){
                 System.out.println("Element found at index: " + i);
+                sc.close();
                 return ;
             }else{
                 if(i == size_array - 1){
