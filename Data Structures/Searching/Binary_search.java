@@ -44,6 +44,5 @@ public class Binary_search{
  		display(arr);
 
         sc.close();
- 		return ;
     }
 }
