@@ -43,8 +43,7 @@ public class Binary_search{
  		System.out.print("\nElement not present in the array... ");
  		display(arr);
 
+        sc.close();
  		return ;
-
-
     }
 }
